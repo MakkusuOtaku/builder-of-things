@@ -1,3 +1,5 @@
+const vec3 = require('vec3');
+
 exports.pineapple = (tags)=>{
 	return({
 		size: vec3(20, 13, 20),
